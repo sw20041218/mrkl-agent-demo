@@ -75,6 +75,8 @@ http://localhost:8501
 + The example questions are designed to resemble natural student-style queries.
 + Prerecorded `.pickle` files are used to replay agent reasoning steps for stability and reproducibility.
 + This approach avoids API quota and billing issues while still demonstrating agent behavior.
+## Video of running
+<img width="1260" height="866" alt="image" src="https://github.com/user-attachments/assets/125657c9-12ce-49bd-b17a-31f13636066d" />
 
 
 
