@@ -1,3 +1,4 @@
+# 🧸 MRKL Agent Demo by Wendy Sun
 by **Wen Sun**
 
 A lightweight agent-based demo built with LangChain and Streamlit, showcasing how a MRKL (Modular Reasoning, Knowledge and Language) agent performs multi-step reasoning and tool selection to answer complex questions.
