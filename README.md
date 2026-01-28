@@ -76,7 +76,10 @@ http://localhost:8501
 + Prerecorded `.pickle` files are used to replay agent reasoning steps for stability and reproducibility.
 + This approach avoids API quota and billing issues while still demonstrating agent behavior.
 ## Video of running
-https://github.com/sw20041218/mrkl-agent-demo/assets/USER_ID/VIDEO_ID
+
+
+https://github.com/user-attachments/assets/f34806ea-abb2-4777-a229-8ff2068eea03
+
 
 
 
